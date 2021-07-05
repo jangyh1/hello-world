@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("test", "Hello");
         //주석 테스트
-        //원격저장소
+        //원격저장소 테스트
     }
 }
